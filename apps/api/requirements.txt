@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-filter
+python-dotenv
+requests
+markdown2
+celery
+redis
+tweepy 
