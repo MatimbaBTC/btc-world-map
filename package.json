@@ -1,0 +1,9 @@
+{
+  "name": "btc-world-map",
+  "version": "1.0.0",
+  "description": "A global platform that maps Bitcoin events and communities.",
+  "keywords": [],
+  "author": "@CUSTcoding",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.0"
+}
